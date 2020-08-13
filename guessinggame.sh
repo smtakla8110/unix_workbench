@@ -23,4 +23,4 @@ function guess_filenum {
 	fi
 }
 echo "Guess how many files are in the current directory and press Enter :"
-guess_filenum
+read guess_filenum
